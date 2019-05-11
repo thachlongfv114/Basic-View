@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BasicViewLAYOUT</string>
+    <string name="txtName">Tên:</string>
+    <string name="txtEmail">Email:</string>
+    <string name="editName"></string>
+    <string name="editEmail"></string>
+    <string name="txtCheckBoxTitle">Hobbies</string>
+    <string name="chkReading">Đọc Sách</string>
+    <string name="chkTravelling"> Du lịch</string>
+    <string name="chkCoding">Chơi Game</string>
+    <string name="rdMale">Nam</string>
+    <string name="rdFemale">Nữ</string>
+    <string name="txtSex">Giới tính</string>
+    <string name="txtExpert">Xác nhận thông tin trên là đúng: </string>
+    <string name="btnCancel">Thoát</string>
+    <string name="btnInfo">Chọn</string>
+
+    <string name="txtLan">Ngôn ngữ: </string>
+    <string-array name="lan_array">
+        <item>VietNamese</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Chinese</item>
+    </string-array>
+
+
+
+</resources>
